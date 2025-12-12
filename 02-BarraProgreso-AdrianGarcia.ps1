@@ -1,4 +1,5 @@
-############### NOMBRE Y APELLIDO DEL AUTOR(A): ADRIÁN GARCÍA ####################
+#SEGUNDO SCRIPT: CREAR BARRA DE PROGRESO
+#ADRIAN GARCIA
 
 function Start-ProgressBar {
     [CmdletBinding()]
